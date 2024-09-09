@@ -20,7 +20,7 @@ Content-Type: image/jpeg
 
 ```markdown
 python3 .\锐捷NBR路由器任意文件上传漏洞.py -u url
-python3 .\锐捷NBR路由器任意文件上传漏洞.py -f url2.txt
+python3 .\锐捷NBR路由器任意文件上传漏洞.py -f url.txt
 ```
 
 访问url验证
